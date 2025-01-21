@@ -2,6 +2,32 @@
 
 ![Diagram](kubernetes-architecture.PNG)
 
+# Kubernetes Exam Official Documentation
+
+For preparation and reference during the Kubernetes exams, you can use the official documentation provided by Kubernetes. Ensure you are familiar with navigating and searching through it effectively.
+
+## Official Documentation Links
+
+- [Kubernetes Documentation](https://kubernetes.io/docs/)
+- [Certified Kubernetes Administrator (CKA) Exam Guide](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+- [Certified Kubernetes Application Developer (CKAD) Exam Guide](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+- [Certified Kubernetes Security Specialist (CKS) Exam Guide](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
+
+## Tips for Exam Preparation
+1. Familiarize yourself with the documentation structure.
+2. Practice finding relevant information quickly using the search bar.
+3. Bookmark important sections like:
+   - [kubectl Commands](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands/)
+   - [Pod Configuration](https://kubernetes.io/docs/tasks/configure-pod-container/)
+   - [Networking](https://kubernetes.io/docs/concepts/cluster-administration/networking/)
+   - [Security](https://kubernetes.io/docs/concepts/security/overview/)
+
+---
+
+## Note
+During the exam, you will have access to the official documentation but not the entire internet. Practice using only the official resources to simulate the exam environment.
+
+
 ## Preparation on Your Laptop: Step-by-Step Guide
 
 ### 1. Docker Desktop Installation
