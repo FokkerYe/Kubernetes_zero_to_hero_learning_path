@@ -25,7 +25,8 @@ For preparation and reference during the Kubernetes exams, you can use the offic
 ---
 
 ## Note
-During the exam, you will have access to the official documentation but not the entire internet. Practice using only the official resources to simulate the exam environment.
+[Kubernetes Myanmar GitBook](https://myanmar-kubernetes.gitbook.io/kubernetes-myanmar)
+
 
 
 ## Preparation on Your Laptop: Step-by-Step Guide
