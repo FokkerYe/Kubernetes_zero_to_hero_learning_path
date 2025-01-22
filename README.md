@@ -1,5 +1,5 @@
 # Kubernetes Zero to Hero Learning Path
-![Diagram](images/kubernetes-architecture.PNG)
+![Diagram](kubernetes-architecture.PNG)
 
 
 # Kubernetes Exam Official Documentation
